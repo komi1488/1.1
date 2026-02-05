@@ -1,7 +1,6 @@
 ﻿using System;
 class Program {
-  static int Main()
-  {
+  static int Main() {
     
   int a = 0;
   int n = 0;
