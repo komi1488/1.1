@@ -1,8 +1,6 @@
 ﻿using System;
-class Program
-{
-  static int Main()
-  {
+class Program {
+  static int Main() {
   Console.Write("Введите число x (не менее 3 цифр): ");
   string input = Console.ReadLine();
 
