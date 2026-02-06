@@ -1,7 +1,7 @@
 ﻿using System;
 class Program {
   static int Main() {
-  Console.Write("Введите число x (не менее 3 цифр): ");
+  Console.Write("Enter the number x (at least 3 digits): ");
   string input = Console.ReadLine();
 
   int n = 0;
